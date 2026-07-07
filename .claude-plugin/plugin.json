@@ -1,7 +1,7 @@
 {
   "name": "autonomous-agent",
   "description": "Fully autonomous agent that implements, self-tests (including UI via browser screenshots), and iterates in a loop until the goal is fully achieved — zero hand-offs",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": {
     "name": "Suditya"
   }
